@@ -4,9 +4,9 @@ Get list of all GameObjects in a scene
 
 ### Shot1
 
-![shot1](Images/1.png)
+![shot1](Documentation/1.png)
 
 
 ### Shot2
 
-![shot2](Images/2.png)
+![shot2](Documentation/2.png)
